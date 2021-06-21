@@ -8,7 +8,7 @@
     padding: 5% 0;
 }
 .landing1{
-    margin-top: 50px;
+    margin-top: 10%;
 }
 .about{
     text-align: center;
@@ -31,4 +31,18 @@
 }
 .row img{
     width: 95%;
+}
+input{
+    background: none !important     ;
+}
+
+textarea{
+    background: none !important     ;
+}
+
+::placeholder{
+    color:white!important;
+}
+.mouse{
+    margin-top: 10%;
 }
