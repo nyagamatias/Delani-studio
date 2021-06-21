@@ -52,3 +52,6 @@ textarea{
 .contacttext-center{
     color: white;
 }
+#p1, #p2, #p3{
+    display: none;
+}
