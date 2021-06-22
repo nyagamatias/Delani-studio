@@ -28,10 +28,13 @@
 }
 .portfolio{
     text-align: center;
+    margin: 5%;
 }
-.row img{
-    size: 65%;
+
+.myclass img{
+    width: 105%;
 }
+
 input{
     background: none !important     ;
 }
