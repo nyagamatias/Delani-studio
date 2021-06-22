@@ -23,7 +23,5 @@ $(document).ready(function () {
         $("#p3").toggle();
         $("#image3").toggle();
     });
-    $("#animation").animate({ marginTop: "80px" }, 1500 )
-               .animate({ marginTop: "40px" }, 800 );
 });
 
